@@ -12,3 +12,5 @@ Python, Tensorflow, Keras, OpenCV, Kivy, Pandas
  - [Based on this reasearch paper](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)
  - [Open source negative images](http://vis-www.cs.umass.edu/lfw/)
  - [Got help from](https://paperswithcode.com/paper/siamese-neural-networks-for-one-shot-image)
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
